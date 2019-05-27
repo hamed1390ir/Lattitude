@@ -1,0 +1,55 @@
+body {
+background-color: #EDEDED;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.outer{
+    padding: 5%
+}
+.box{
+    background-color: white;
+    padding: 25px;
+    margin: 10px;
+}
+.box h1,h2{
+    color:#51ADA6;
+}
+p{
+    margin-bottom: 30px;
+}
+img{
+    width:100% !important;
+    height:100% !important;
+}
+.vis-item:hover{
+border-color: #55B1AB;
+border-style: solid;
+
+}
+
+footer{
+    background-color:#666666;
+    color: white;
+    padding-top: 10px;
+}
+.brand{
+    margin-left: 50px;
+    padding: 10px;
+    background-color: #51ADA6;
+    font-size: 24px;
+    color: white;
+}
+.nav-link{
+    margin-left: 10px; 
+    margin-right: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.nav-link:active{
+background-color: rgb(183, 187, 187);
+}
+.dropdown-item:active{
+background-color: #51ADA6;
+}
+.comp-item{
+    margin: 20px;
+}
